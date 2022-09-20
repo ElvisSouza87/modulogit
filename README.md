@@ -1,3 +1,5 @@
-Meu primeiro sistema no GIT
+Meu segundo sistema no GIT
 
-Alteração no readme para descrever meu sistema
+alguma nova linha adicionado 
+
+mais comentarios adicionado
