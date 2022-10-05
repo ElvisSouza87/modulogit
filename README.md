@@ -1,6 +1,4 @@
-Meu segundo sistema no GIT
-
-alguma nova linha adicionado 
+SISTEMA GIT
 
 NOVOS SONHOS
 
@@ -10,4 +8,4 @@ NOVAS CONQUISTAS
 
 DEUS NO COMANDO
 
-NOVAS CONQUISTAS
+NOVOS CAMINHOS 
