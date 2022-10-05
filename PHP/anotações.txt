@@ -5,4 +5,8 @@ FERRAMENTAS NECESSÁRIAS
 - BANCO DE DADOS: MYSQL
 - EDITOR DE CÓDIGO : VSCODE /SUBLIME TEXT
 
+C:\xampp\htdocs -> local do servidor 
+
+- IP DE ACESSO - 127.0.0.1  - localhost
+
 
