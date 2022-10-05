@@ -7,6 +7,8 @@ FERRAMENTAS NECESSÁRIAS
 
 C:\xampp\htdocs -> local do servidor 
 
+http://10.240.0.230/PHP/index.php
+
 - IP DE ACESSO - 127.0.0.1  - localhost
 
 
