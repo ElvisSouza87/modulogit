@@ -50,6 +50,15 @@
      }
 }
 
+/* aspect-ratio */
+
+/* 1/1 largura e altura  min- max*/
+@media (aspect-ratio: 1/1)  { 
+    body {
+      background-color: #ff0000;
+    }  
+}
+ 
 
 /* orientation */
 
