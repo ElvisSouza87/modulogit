@@ -402,3 +402,108 @@ footer .material-symbols-outlined {
 .years {
     color: #39aae1;
 }
+
+.menuMobile {
+    display: none;
+    width: 40px;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
+.mm-line {
+    height: 3px;
+    background-color: #39aae1;
+}
+
+/*  *** Responsive  @media *** */
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 599.99px) { 
+    .banner-headline {
+        padding: 20px;
+       
+    }
+    .banner-headline h1  {
+        font-size: 50px;
+    }
+    .banner-headline h2  {
+        font-size: 17px;
+    }
+
+    .banner-options {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    #geral section, 
+    #geral aside {
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    .footer-menu {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .footer-area {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .footer-copy {
+        padding-left: 20px;
+    }
+
+    header .container {
+        flex-direction: row;
+    }
+
+    nav ul {
+        flex-direction: column;
+        display: none;
+        position: absolute;
+        left: 0px;
+        width: 100%;
+        background-color: #fff;
+       
+    }
+
+    header {
+        height: auto;
+        padding: 20px;
+    }
+
+    .menuMobile {
+        display: flex;
+        flex-direction: column;
+        justify-content:space-around;
+    }
+    
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 600px) and (max-width: 767.98px) { 
+    
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+}
