@@ -491,7 +491,7 @@ footer .material-symbols-outlined {
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 600px) and (max-width: 767.98px) { 
-    
+}    
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) { 
@@ -505,5 +505,5 @@ footer .material-symbols-outlined {
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
-    
+
 }
